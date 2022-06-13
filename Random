@@ -13,6 +13,3 @@ void main(void)  //function call
 void hi() {  //function declare 
 
 }
-
-
-
