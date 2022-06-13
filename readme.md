@@ -1,7 +1,1 @@
-# GeekOut Group F
-
-- Qi Zhen
-- Karthik
-- Jun Xuan
-- Amber
-- Zechariah
+*/ i wish i can just comment the conflicts HAHA /* -- QZ 
