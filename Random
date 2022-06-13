@@ -1,8 +1,4 @@
-//YOZ RANDOMZ 
-
-#define IDK_myhobby //function declare 
-
-
+#include <stdio.h>
 
 void main(void)  //function call 
 { 
