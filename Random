@@ -1,8 +1,18 @@
 //YOZ RANDOMZ 
 
-void main(void) 
+#define IDK_myhobby //function declare 
+
+
+
+void main(void)  //function call 
 { 
+    hi();
     //NOICE! 
 }
+
+void hi() {  //function declare 
+
+}
+
 
 
